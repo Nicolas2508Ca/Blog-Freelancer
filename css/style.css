@@ -117,7 +117,9 @@ h1, h2, h3{
 }
 
 .hero{
-    background-color: var(--grisClaro);
+    background-image: url("../img/hero.jpg");
+    background-size: cover;
+    background-position: center;
     height: 450px;
     position: relative;
     margin-bottom: 2rem;
